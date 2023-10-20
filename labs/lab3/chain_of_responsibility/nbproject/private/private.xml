@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/Logger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/ChainOfResponsibilityDemo.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/chain_of_responsibility/ChainPatternDemo.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/DatabaseLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/chain_of_responsibility/AbstractLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/ConsoleLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/chain_of_responsibility/ConsoleLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/chain_of_responsibility/ErrorLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/ChainOfResponsibilityDemo1.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/chain_of_responsibility/FileLogger.java</file>
+            <file>file:/Z:/design-pattern/labs/lab3/chain_of_responsibility/src/FileLogger.java</file>
+        </group>
+    </open-files>
+</project-private>
